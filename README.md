@@ -37,7 +37,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/auth-backend.git
+git clone https://github.com/Adityaverma4648/nodejs-auth.git
 cd auth-backend
 Install dependencies:
 
