@@ -1,4 +1,6 @@
 Node.js Authentication Backend
+
+
 This is a Node.js backend application providing user authentication with email/password and OAuth integration for Google, Facebook, X.com (formerly Twitter), and LinkedIn. The app uses Express.js for routing, Passport.js for authentication strategies, and MongoDB for database storage.
 
 Features
